@@ -9,6 +9,7 @@ lib/gendarme-*
 gendarme.html
 gendarme.xml
 packages
+.idea/
 .vs/
 .nuget/
 *.userprefs
